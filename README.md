@@ -17,12 +17,12 @@ SOC Log Threat Detector is a beginner-friendly Python cybersecurity project that
 - Log Analysis
 - Basic Threat Detection Logic
 
-## 📸 Project Output
+## Project Output
 
-### 🔹 Detection Output
+### Detection Output
 ![Detection Output](output-terminal.png)
 
-### 🔹 Alert Report File
+### Alert Report File
 ![Alert Report](alert-report.png)
 
 ## Project Structure
