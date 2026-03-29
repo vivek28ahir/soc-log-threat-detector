@@ -1,0 +1,11 @@
+SOC Log Threat Detector - Alert Report
+=============================================
+
+[ALERT] Possible brute-force attack detected from IP: 192.168.1.10
+[WARNING] Repeated failed logins detected for user: admin
+[HIGH RISK] Login attempt from suspicious IP: 45.33.32.156
+[HIGH RISK] Login attempt from suspicious IP: 45.33.32.156
+[HIGH RISK] Login attempt from suspicious IP: 45.33.32.156
+[ALERT] Possible brute-force attack detected from IP: 45.33.32.156
+[WARNING] Repeated failed logins detected for user: root
+[CRITICAL] Successful login after repeated failures for user 'root' from IP: 45.33.32.156
